@@ -1,0 +1,17 @@
+{
+    "name": "cordova-plugin-saveuserid",
+    "version": "0.0.1",
+    "description": "This is the saveUserID plugin",
+    "cordova": {
+        "id": "cordova-plugin-saveuserid",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "author": "Uplus",
+    "license": "ISC"
+}
